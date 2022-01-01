@@ -1,0 +1,8 @@
+/* Tipos de format
+                      -Opentype (otf)
+                      -Trutype  (ttf)
+                      -Embedded-Opentype
+                      -Truetype-aat (Apple Advanced Typography)
+                  */
+
+        
